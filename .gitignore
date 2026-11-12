@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.onnx
+*.engine
+*.plan
+*.bag
+*.mcap
+*.mp4
+*.webm
+checkpoints/
+datasets/
+logs/
